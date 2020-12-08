@@ -9,8 +9,8 @@ table {
   border-collapse: collapse;
 }
 table, td th {
-  width: 90%;
-  height: 75px;
+  width: 80%;
+  height: 75%;
 }
 table {
   text-align:  center;
